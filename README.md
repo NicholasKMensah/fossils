@@ -1,0 +1,3 @@
+# fossil demo directory
+
+cool
